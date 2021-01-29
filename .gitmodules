@@ -1,0 +1,9 @@
+[submodule "filmplex-web"]
+	path = filmplex-web
+	url = git@github.com:ewertondias/filmplex-web.git
+[submodule "filmplex-users"]
+	path = filmplex-users
+	url = git@github.com:ewertondias/filmplex-users.git
+[submodule "filmplex-movies"]
+	path = filmplex-movies
+	url = git@github.com:ewertondias/filmplex-movies.git

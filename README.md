@@ -1,2 +1,2 @@
-# coding-skills-filmplex
+# filmplex
 Project FilmPlex for improve my coding skills
